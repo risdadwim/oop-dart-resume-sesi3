@@ -21,3 +21,6 @@
 
 ### Program User
 ![Output User](User.png)
+
+### Program Soal 1
+![Output Soal 1](Soal1.png)
