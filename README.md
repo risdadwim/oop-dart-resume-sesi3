@@ -24,3 +24,6 @@
 
 ### Program Soal 1
 ![Output Soal 1](Soal1.png)
+
+### Program Soal 2
+![Output Soal 2](Soal2.png)
